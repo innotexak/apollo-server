@@ -5,7 +5,7 @@ export class AuthDatasource {
     public myData = {
         firstName: 'Innocent',
         lastName: "Akuh",
-        description: "I'm a developer based in Nigeria"
+        description: "I'm a developer based in Abuja, Nigeria"
     }
 
 
